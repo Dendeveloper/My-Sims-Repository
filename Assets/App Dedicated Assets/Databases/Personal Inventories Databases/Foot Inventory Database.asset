@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc20969703e662d47ad3c30ab9116308, type: 3}
+  m_Name: Foot Inventory Database
+  m_EditorClassIdentifier: 
+  Items_Tag_Reference: Foot Item
+  Selected_Item_Sprite_Ref: {fileID: -4391013281260948924, guid: c540e5276ad5cb1408c3e19f1b45a779,
+    type: 3}
+  Selected_Item_Attached_Prefab_Ref: {fileID: 550509219449392268, guid: 902525d3852535644a51bab8645e0e69,
+    type: 3}

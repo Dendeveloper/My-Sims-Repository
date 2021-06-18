@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bcee556122dc60842b98d69139e8569a, type: 3}
+  m_Name: Karen NPC Database
+  m_EditorClassIdentifier: 
+  NPC_Name_Reference: Karen
+  Dialogues_Array_Reference:
+  - Hi! Welcome to our one and only shop! Please look around and pick what sees of
+    your eyes!
+  - Hi i am Karen, what can i help you?
+  - I wonder if it will rain later.
+  - There was a time that a stranger came here and he bought all of our items except
+    for one!
+  - Items on sale!

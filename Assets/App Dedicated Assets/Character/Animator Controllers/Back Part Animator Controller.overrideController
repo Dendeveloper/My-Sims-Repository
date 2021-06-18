@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Back Part Animator Controller
+  m_Controller: {fileID: 9100000, guid: a4f5d4cc52bf3954ca92da49b4cac8e4, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 5c9a2cc625a7aed428b8678a1cfd7d1c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8779252b2d918dd438b5a3993be127ba, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 50ffe23619fada647ab449b55ef4a9b6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 44b1e99e68094ce42b21313c5913f4ba, type: 2}
