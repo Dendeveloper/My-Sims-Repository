@@ -1,0 +1,9 @@
+This is the repository for my sample project My Sims
+
+Notes for everyone who has the 'My Sims' project files :
+
+* Before opening the projects files in Unity, make sure to delete the Library folder.
+* The executable files are compressed inside the folder Setup Files Folder.
+* The document for the whole project is located in Documents Folder folder.
+
+THANK YOU
